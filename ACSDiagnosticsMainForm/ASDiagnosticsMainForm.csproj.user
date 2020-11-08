@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\engacsrpt.eng.pscnet.com\SVKACSDiagnostics\|http://engacsrpt.eng.pscnet.com/SVKACSDiagnostics/|\\engacsrpt.eng.pscnet.com/ACSDiagnostics/|http://engacsrpt.eng.pscnet.com/ACSDiagnostics/|http://localhost/ACSDiagnostics/</PublishUrlHistory>
+    <InstallUrlHistory>http://engacsrpt.eng.pscnet.com/SVKACSDiagnostics/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[clsDiagnosticTest.csproj]
+SCC_Aux_Path = http://vault.home.dl.net/VaultService|:29
+SCC_Project_Name = $/ACSEE.NET/ACSEE.NET/ACSDiagnostics/ACSDiagnosticsMainForm/clsDiagnosticTest

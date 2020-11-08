@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="clsDiagnosticTest.ExplanationForm">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAKAAABAAAECAQAACQoA4AAIAAGAACAAIAgA=</HashCode>
+      <FileName>ExplanationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ExplanationForm2">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAABAAAACAAAACAAA4AAIAAGIACAQABAA=</HashCode>
+      <FileName>ExplanationForm2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.InputDialogBox">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="clsDiagnosticTest.InputDialogBox.inputresponse" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>InputDialogBox.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACBAAAkAAAKBAOACBQEAAFAATQAAAAAAAAA=</HashCode>
+      <FileName>InputDialogBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ucDiagnosticAccessFiles">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucDiagnosticAccessFiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ucDiagnosticDatabaseCheck">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQAAAAAAAAAAAAAACAAAgCAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucDiagnosticDatabaseCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ucDiagnosticNetworkTest">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucDiagnosticNetworkTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ucDiagnosticPing">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQCAAAAAAAACAAAACAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucDiagnosticPing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ucDiagnosticSAPPOBOMPull">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACAAAACAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucDiagnosticSAPPOBOMPull.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ucDiagnosticStep">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="clsDiagnosticTest.ucDiagnosticStep.EventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucDiagnosticStep.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Enum Name="clsDiagnosticTest.ucDiagnosticStep.StepResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucDiagnosticStep.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="clsDiagnosticTest.ucDiagnosticStep.StepStatusDisplay" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucDiagnosticStep.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BRIAAGCUACEgAAAAAACCAABCAAAGGAAAQACBQQEAAIA=</HashCode>
+      <FileName>ucDiagnosticStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.ucDiagnosticUserQuestions">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ucDiagnosticUserQuestions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clsDiagnosticTest.Properties.Settings">
+    <Position X="16" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAZAAAAAARAAAAAAggEAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

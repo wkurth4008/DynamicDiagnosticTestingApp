@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ACSDiagnosticsMainForm</name>
+    </assembly>
+    <members>
+        <member name="T:ACSDiagnosticsMainForm.diagnosticStepInfo">
+            <summary>
+            Step Info for all user defined steps
+            </summary>
+        </member>
+        <member name="T:ACSDiagnosticsMainForm.Form1">
+            <summary>
+            <Author>WDK 2/4/10</Author>
+            Main form containing User Control Diagnostics
+            </summary>
+        </member>
+        <member name="F:ACSDiagnosticsMainForm.Form1.mySteps">
+            <summary>
+            List of steps (UC's)
+            </summary>
+        </member>
+        <member name="F:ACSDiagnosticsMainForm.Form1.StepPing">
+            <summary>
+            generic user control for test step
+            </summary>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.Form1_Load(System.Object,System.EventArgs)">
+            <summary>
+            Main Form load
+            get list of steps from app.config and display on main panel
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.exitButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Exit program
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.HandleStepError(System.Object,clsDiagnosticTest.StepEventArgs)">
+            <summary>
+            event handler for step errors
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.runButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Loop through all tests(steps) and execute   
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.checkUnCheckButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            check or uncheck all steps check boxes
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:ACSDiagnosticsMainForm.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ACSDiagnosticsMainForm.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:ASDiagnosticsMainForm.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ASDiagnosticsMainForm.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ASDiagnosticsMainForm.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

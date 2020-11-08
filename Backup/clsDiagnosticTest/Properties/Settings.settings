@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="clsDiagnosticTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserQuestions" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Are you able to access your email?&lt;/string&gt;
+  &lt;string&gt;Can you access the internet?&lt;/string&gt;
+  &lt;string&gt;Does the network appear to be working?&lt;/string&gt;
+  &lt;string&gt;Have you tried stopping and restarting the machine(s) in question?&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="UserDirections" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Check with IT for network connectivity problems.&lt;/string&gt;
+  &lt;string&gt;Check with IT for internet access.&lt;/string&gt;
+  &lt;string&gt;Check with IT for network connectivity problems.&lt;/string&gt;
+  &lt;string&gt;Try starting and stopping the machine(s) that you are having problems with.&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="DBUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">reports</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">reports</Value>
+    </Setting>
+    <Setting Name="TestDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=ENGACSDB.ENG.PSCNET.COM;Initial Catalog="ACS EE";User ID=reports;Password=reports</Value>
+    </Setting>
+    <Setting Name="NetworkAddress" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;10.1.10.71&lt;/string&gt;
+  &lt;string&gt;10.1.1.101&lt;/string&gt;
+  &lt;string&gt;10.1.50.54&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="DatabaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ENGACSDB.ENG.PSCNET.COM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
